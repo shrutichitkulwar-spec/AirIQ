@@ -5,7 +5,7 @@ The Smart Air Monitoring System is an IoT-based project designed to measure and 
 It uses Arduino UNO with MQ135 Gas Sensor and DHT11 Sensor, sending data to a Python Flask web dashboard via a USB serial connection.
 
 This project helps monitor environmental health by displaying live readings, historical charts, and alerts for poor air quality.
-
+"https://v0-smart-air-monitoring-system.vercel.app/" This is the link of the working project.
 🧩 Features
 
 ✅ Real-time monitoring of air quality, temperature, and humidity
